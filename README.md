@@ -19,7 +19,7 @@ step 4
 find the console tab and paste the script into the console and hit enter
 
 step 5 
-the console will spit back nothing that is good but do not close the inspect element 
+the console will spit back nothing.  that is good but do not close the inspect element 
 ![Screenshot 2020-08-13 at 9 26 26 PM](https://user-images.githubusercontent.com/67981768/90213836-a8d68a80-ddab-11ea-9647-42dd3789579b.png)
 
 
